@@ -1,3 +1,10 @@
+.container{
+                max-width: 800px;
+                margin: 0 auto;
+                color: #3e3c3c;
+                font: sans-serif;
+                padding: 100px;
+}
 body {
     font-family: sans-serif;
     background-color: lightgrey;
